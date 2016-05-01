@@ -18,7 +18,7 @@ Command | Parameters
 > Note: This Plugin is ONLY written on PHP so, You can't fit your Plugin on some MCPE Server Softwares like [MiNET](https://github.com/NiclasOlofsson/MiNET) Because it is written in C# and [Nukkit](https://github.com/Nukkit/Nukkit) because it is written in Java.
 
 
-**_Note: This is my very first plugin, feel free to create any issue, suggestion or pull request. Thanks! :D_**
+**_Note: This is my second plugin, feel free to create any issue, suggestion or pull request. Thanks! :D_**
 
 **Commands:**
 - [ ] /info
