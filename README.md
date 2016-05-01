@@ -20,7 +20,7 @@ Command | Parameters
 
 **_Note: This is my second plugin, feel free to create any issue, suggestion or pull request. Thanks! :D_**
 
-**Commands:**
+**- Commands:**
 - [ ] /info
  - [ ] server
  - [ ] staff
