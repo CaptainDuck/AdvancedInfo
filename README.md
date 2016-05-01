@@ -1,4 +1,4 @@
-# AdvancedRules
+# AdvancedInfo
 _**The only fully-featured Info plugin you'll every need. (WIP).**_
 
 **Command:**
