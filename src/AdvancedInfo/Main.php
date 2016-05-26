@@ -2,7 +2,7 @@
 
 namespace AdvancedInfo;
 use pocketmine\plugin\PluginBase; 
-use AdvancedRules\Rules;
+use AdvancedInfo\Info;
 use pocketmine\utils\Config;
 use pocketmine\utils\TextFormat;
 
