@@ -11,7 +11,7 @@ class Main extends PluginBase{
     public function onEnable(){
             $this->getServer()->getLogger()->info(TextFormat::BLUE . "AdvancedInfo v1.0.0b by CaptainDuck enabled.");
             $this->saveResource("info.yml");
-            $config = new Config($this->getDataFolder . "info.yml", Config::YAML);
+            $config = new Config($this->getDataFolder() . "info.yml", Config::YAML);
             $config->save();
     }
 
